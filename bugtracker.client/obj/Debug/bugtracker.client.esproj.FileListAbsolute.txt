@@ -1,0 +1,1 @@
+T:\code\bugs\BugTracker\bugtracker.client\obj\Debug\bugtracker.client.esproj.CoreCompileInputs.cache
